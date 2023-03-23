@@ -1,0 +1,16 @@
+#outer{
+height: 10px;
+width: 40px;
+border-radius: 15px;
+border: 1px solid black;
+margin: 50px auto;
+}
+#innerRound{
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+    background-color: black;
+}
+#head{
+    margin: 0px 600px;
+}
